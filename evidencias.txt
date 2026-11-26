@@ -1,0 +1,48 @@
+Selecciona una opcion: 1
+Ingresa la concentracion (M): 0.005
+El pH es: 2.3
+
+Selecciona una opcion: 2
+Ingresa la concentracion (M): 0.005
+El pOH es: 2.3
+
+Selecciona una opcion: 3
+Ingresa el valor del pH: 2.3
+Concentracion de H+: 0.005011872336272725
+
+Selecciona una opcion: 4
+Ingresa el valor del pOH: 2.3
+Concentracion de OH-: 0.005011872336272725
+
+Selecciona una opcion: 5
+Ingresa el valor del pH: 11.7
+La disolucion es: Básica
+
+Selecciona una opcion: 6
+
+--- HISTORIAL DE CALCULOS ---
+
+Calculo: 1
+Sustancia: Acido fuerte
+Operacion: Calculo de pH
+Resultado: 2.3
+
+Calculo: 2
+Sustancia: Base fuerte
+Operacion: Calculo de pOH
+Resultado: 2.3
+
+Calculo: 3
+Sustancia: Disolucion
+Operacion: Concentracion de H+
+Resultado: 0.005011872336272725
+
+Calculo: 4
+Sustancia: Disolucion
+Operacion: Concentracion de OH-
+Resultado: 0.005011872336272725
+
+Calculo: 5
+Sustancia: Disolucion
+Operacion: Clasificacion
+Resultado: Básica
